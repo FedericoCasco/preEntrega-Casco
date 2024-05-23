@@ -1,4 +1,3 @@
-
 //----------------------------------Nombre----------------------------//
 
 let nombreIngresado = prompt("Ingrese su nombre a continuacion:");
@@ -12,7 +11,6 @@ while (nombreIngresado === null || nombreIngresado === "" ) {
         nombreIngresado = prompt("Ingrese su nombre a continuación:");
     }
 }
-
 alert("Excelente " + nombreIngresado + "\nProsigamos con verificación");
 
 //--------------------------------Edad-----------------------------//
