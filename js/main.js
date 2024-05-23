@@ -32,7 +32,7 @@ let edad = prompt("Ingrese su edad");
         alert("Excelente tiene la edad necesaria para seguir.");
     } 
     else {
-        alert("Eres menor para proseguir, vuelve dentro de unos años.");
+        alert("Eres menor para proseguir, vuelve cuando seas mayor de edad.");
         prompt = ("")
     }
 
